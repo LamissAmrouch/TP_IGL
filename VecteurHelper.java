@@ -23,18 +23,18 @@ class VecteurHelper {
     
     
     */
-    static public ArrayList<Integer> Trier(ArrayList<Integer> l1)
+    static public ArrayList<Integer> Trier(ArrayList<Integer> vect1)
     {//une méthode qui trie un vecteur donner en entré de cette fonction
-    Collections.sort(l1);//trier le vecteur en utilisant la méthode sort pour les collections 
-    return(l1);//retourner le vecteur aprés avoir le trier 
+    Collections.sort(vect1);//trier le vecteur en utilisant la méthode sort pour les collections 
+    return(vect1);//retourner le vecteur aprés avoir le trier 
    
     }
             
-      static int fonction(int i)
+      static int fonction(int p)
       {//cette fonction appliue une certain formules sur un entier donner en entré
           
           
-          return(i*2);//retourner l'élément aprés avoir le trier
+          return(p*2);//retourner l'élément aprés avoir le trier
       
       
       }
