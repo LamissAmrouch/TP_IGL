@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package tp_igl;
 
-/**
- *
- * @author ALGER
- */
+/* TailleException est une exception qui sera levée  si les 2 vectors n'ont pas la meme taille */ 
+
+
 public class TailleException extends Exception
 {
 
