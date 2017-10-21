@@ -17,7 +17,7 @@ public class Tp_igl {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws TailleException
-    {
+    {//the main du progarmme pour tester des différante modules de la classa Vecteur Helper
         ArrayList<Integer> Vecteur1=new ArrayList<Integer>(); 
         ArrayList<Integer> resultat=new ArrayList<Integer>();
          ArrayList<Integer> resultat1=new ArrayList<Integer>();
